@@ -1,4 +1,7 @@
+# Most child traffickers sentenced to less than 10 years in China
+Link to the orginal story: https://datanews.caixin.com/2020-06-11/101565757.html (in Chinese and paywalled)
 
+By Mengyuan Dong
 
 During the Two Sessions of the National People’s Congress (NPC) in 2020, Zhang Boyan, an NPC deputy, initiated a proposal to increase the sentences for human traffickers and investigate their liabilities for life, sparking a public debate on the issue of trafficking women and children.
 
