@@ -1,4 +1,4 @@
-# The human trafficking data analysis at Caixin
+# A data analysis on Human Trafficking in China
 This is a solo data story I did at Caixin looking into child trafficking cases and analyzing how were human traffickers often sentenced. 
 The story was published in Chinses and paywalled, so here is a translation of the original piece in **story.md**. <br>
 
