@@ -1,4 +1,4 @@
-# Half of human traffickers get less than three years in prison
+# Half of human traffickers in China get less than three years in prison
 Link to the orginal story: https://datanews.caixin.com/2020-06-11/101565757.html (in Chinese and paywalled)
 
 By Mengyuan Dong
