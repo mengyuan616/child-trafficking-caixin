@@ -16,7 +16,7 @@ According to Article 240 of the Criminal Law, human traffickers shall be sentenc
 
 Caixin went through 380 verdicts of local people’s courts at all levels regarding child trafficking throughout 2019 and found that more than half of child traffickers were sentenced to only three years or less in prison. For the buyers of trafficked children, 97 percent were sentenced to fixed-term imprisonment of one year or less, or criminal detention, control, or exemption from criminal punishment.
 
-<img src="/piechart2.png" alt="Child trafficking is mostly sentenced to less than 10 years in prison" width="634" height="412">
+<img src="/piechart_1.png" alt="Child trafficking is mostly sentenced to less than 10 years in prison" width="600" height="439">
 <img src="/piechart1.png" alt="Buying trafficked children is mostly sentenced to less than a year in prison" width="638" height="391">
 
 Defendants who have pleaded guilty or are older are likely to receive a lighter sentence or be declared on probation. In mega child trafficking cases, the main offender may be sentenced to life imprisonment or death. For instance, in a cross-provincial child trafficking case sentenced on May 31, 2019, 12 traffickers transferred a large number of toddlers from Shanxi to Shandong. The two main perpetrators were sentenced to death, and the rest were sentenced to life imprisonment and prison terms ranging from six months to 15 years.
